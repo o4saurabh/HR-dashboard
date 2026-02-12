@@ -48,5 +48,5 @@ Improve workforce planning
 Support data-driven HR decisions
 
 Screenshot
-![Dashboard Preveiew].(https://github.com/o4saurabh/HR-dashboard/blob/main/Present%20Percentage%20Dashboard.png)
+![Dashboard Preview](https://raw.githubusercontent.com/o4saurabh/HR-dashboard/main/Present%20Percentage%20Dashboard.png)
 
